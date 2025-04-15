@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="auth">Вхід</string>
+    <string name="no_register">Не зареєстровані? Натисніть тут аби зареєструватися</string>
+    <string name="login">Логін</string>
+    <string name="register">Реєстрація</string>
+    <string name="registered">Вже зареєстровані? Натисніть тут, аби авторизуватися</string>
+    <string name="app_logo">"Логотип "</string>
+    <string name="library_app">Додаток бібліотеки</string>
+    <string name="add_book">Додати книгу</string>
+    <string name="logout">Вийти</string>
+    <string name="user">Адміністратор з №</string>
+    <string name="books">Книги</string>
+    <string name="book_name">Назва книги</string>
+    <string name="book_author">Автор</string>
+    <string name="book_year">Рік публікації</string>
+    <string name="book_genre">Жанр</string>
+    <string name="book_isbn">ISBN</string>
+    <string name="book_available">Доступна?</string>
+    <string name="order">Отримати книгу</string>
+    <string name="rent_book">Взяти книгу</string>
+    <string name="transactions">Транзакції</string>
+    <string name="issue_date">Дата видачі</string>
+    <string name="return_date">Дата повернення</string>
+    <string name="status">Введіть статус: issued/returned/overdue</string>
+    <string name="update_transaction">Оновити</string>
+    <string name="my_orders">Перегляд історії</string>
+    <string name="users">Користувачі</string>
+    <string name="GenerateReport">Сформувати звіт</string>
+    <string name="user_logs">Дії користувачів</string>
+    <string name="statistic">Статистика</string>
+    <string name="today">Статистика за сьогодні</string>
+    <string name="week">Статистика за тиждень</string>
+    <string name="month">Статистика за місяць</string>
+</resources>

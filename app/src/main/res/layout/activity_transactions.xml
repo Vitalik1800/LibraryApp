@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TransactionsActivity"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:layout_margin="5dp"
+        app:cornerRadius="1dp"
+        android:id="@+id/btnGenerateReport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/GenerateReport"
+        tools:ignore="VisualLintButtonSize" />
+
+    <Button
+        android:layout_margin="5dp"
+        app:cornerRadius="1dp"
+        android:id="@+id/btnStatistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/statistic"
+        tools:ignore="VisualLintButtonSize" />
+
+    <ListView
+        android:layout_margin="5dp"
+        android:id="@+id/lvTransaction"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
